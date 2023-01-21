@@ -18,8 +18,8 @@ Hi,I'm Ashish Shishodia🙌, a Web Developer.❤✌
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at Coding Ninjas.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working at Publicis Sapient.
+- 🌱 I’m currently working as React Developer.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 
@@ -27,6 +27,8 @@ Hi,I'm Ashish Shishodia🙌, a Web Developer.❤✌
 
 **Community**
 - Coding Ninja
+- Monocept
+- Publicis Sapient
 
 **Languages and Tools:**
 
